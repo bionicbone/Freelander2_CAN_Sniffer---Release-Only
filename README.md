@@ -1,5 +1,6 @@
 # Freelander2_CAN_Sniffer---Release-Only
  Executable of the CAN Bus Sniffer Helper Program
+ NOTE: The source code is not being released to ensure responsible usage. It includes functionality for extracting the vehicle's current mileage, which could potentially be misused for illicit purposes, such as conducting a man-in-the-middle attack to falsify the mileage displayed on the dashboard.
 
 CAN Bus Analysis Helper Program
 
